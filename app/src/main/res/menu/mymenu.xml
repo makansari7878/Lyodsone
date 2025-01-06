@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/itemToast" android:title="Toast" > </item>
+    <item android:title="Second" android:id="@+id/itemsecond"></item>
+    <item android:title="Search" android:id="@+id/itemSearch"
+        android:icon="@drawable/koc1"  app:showAsAction="always"></item>
+</menu>
